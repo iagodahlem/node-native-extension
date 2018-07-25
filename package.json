@@ -1,0 +1,11 @@
+{
+  "name": "node-native-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Iago Dahlem Lorensini <iagodahlemlorensini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "node-addon-api": "^1.4.0"
+  }
+}
